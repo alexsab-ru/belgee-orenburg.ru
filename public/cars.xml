@@ -313,7 +313,19 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB901448/d839e741c50c677af98dcfdf2f20892c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB901448/3bcfd15a90cab6054adb950d2fbc8c69.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB901448/11b282c3fcf51b352e2561b40eee2ed6.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB901448/c7f45d00a8c10611d2e820dac5253267.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB901448/1a3342b74f4393c5079226dcae40513c.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB901448/e78a677d4a67cbfb97c0c9616a7cba00.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB901448/2ffe4c29a0f6d598f542ae84b31645f3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB901448/4861535261bc081bd16b763009640d94.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB901448/100fd3cc64cba3bc3730c411b6282c66.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB901448/c108a6334e0218001a9c4bdf17dce304.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z7SB901448/2930c049282b8e8e57ba3d146022fefe.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
