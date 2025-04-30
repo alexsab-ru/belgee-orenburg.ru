@@ -1,17 +1,17 @@
 ---
-h1: В Belgee Партнер-Авто Оренбург до конца апреля действуют следующие предложения
-title: В Belgee Партнер-Авто Оренбург до конца апреля действуют следующие предложения
-breadcrumb: В Belgee Партнер-Авто Оренбург до конца апреля действуют следующие предложения
+h1: В Belgee Партнер-Авто Оренбург действуют следующие предложения
+title: В Belgee Партнер-Авто Оренбург действуют следующие предложения
+breadcrumb: В Belgee Партнер-Авто Оренбург действуют следующие предложения
 pubDate: 2025-02-04
 toDate: true
 image: https://cdn.alexsab.ru/b/belgee/img/specials/belgee-orenburg/special-offer/special-offer-640x900.webp
-description: "В Belgee Партнер-Авто Оренбург до конца апреля действуют следующие предложения"
+description: "В Belgee Партнер-Авто Оренбург действуют следующие предложения"
 ---
 import Button from '@/components/Button/Button.astro';
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import { SITE_NAME, PHONE } from '@/const';
 import { phoneFormat } from '@/js/utils/numbers.format';
-import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+import { FIRST_DAY, LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
 
 export const dateFrom = `01.${MONTH}.${YEAR}`;
 export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
@@ -20,10 +20,10 @@ export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 
 <picture>
 	<source media="(min-width: 942px)" srcset="https://cdn.alexsab.ru/b/belgee/img/specials/belgee-orenburg/special-offer/special-offer-1920x1080.webp" />
-	<img src="https://cdn.alexsab.ru/b/belgee/img/specials/belgee-orenburg/special-offer/special-offer-640x900.webp" class="w-full mb-10" alt="В Belgee Партнер-Авто Оренбург до конца апреля действуют следующие предложения" />
+	<img src="https://cdn.alexsab.ru/b/belgee/img/specials/belgee-orenburg/special-offer/special-offer-640x900.webp" class="w-full mb-10" alt="В Belgee Партнер-Авто Оренбург действуют следующие предложения" />
 </picture>
 
-При покупке нового автомобиля «BELGEE» с 1 по 30 апреля, клиентам Belgee Партнер-Авто Оренбург предоставляется право:
+При покупке нового автомобиля «BELGEE» с {FIRST_DAY} по {dateToGenitive}, клиентам Belgee Партнер-Авто Оренбург предоставляется право:
 
 1\. получить плановые технические обслуживания (ТО) автомобиля (нулевое ТО, а также ТО 10, 20, 30, 40, 50) на следующих условиях:
 - клиент полностью оплачивает стоимость запасных частей и материалов, необходимых для проведения ТО, по действующим у дилера расценкам на момент обращение за проведением ТО;
@@ -50,7 +50,7 @@ export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 
 > - Доставка автомобиля для проведения ТО, шиномонтажа и колес для хранения осуществляется клиентом самостоятельно за свой счёт.
 
-> - Период проведения рекламного мероприятия (программы): с 1 апреля 2025 по 30 апреля 2025 .
+> - Период проведения рекламного мероприятия (программы): с {FIRST_DAY} {MONTH_GENITIVE} {YEAR} по {dateToGenitive} {YEAR} г.
 
 > - Место проведения: шоу-рум ДЦ Belgee Партнер-Авто Оренбург,  г. Оренбург, Загородное шоссе, 13/2.
 
