@@ -219,6 +219,41 @@
 			</multiposting>
 		<max_discount>360000</max_discount><priceWithDiscount>2330190</priceWithDiscount><sale_price>2330190</sale_price><url>https://belgee-orenburg.ru/cars/belgee-x50-15-amt-150-лс-prestige-серый-2025/</url></car>
 		<car>
+			<unique_id>5bc7fbff47ddf09b4bce10be3b31d3fb</unique_id>
+			<mark_id>BelGee</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Style</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>СЕРЕБРИСТЫЙ</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2025</year>
+			<price>2590190</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z1SB908749</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB908749/a408cbede54177b9e35587a0a53d060c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB908749/f3bcfecb54c20ca5c0dde621ec498fd2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB908749/cb557720106e00dc45880d6b765ea09e.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB908749/8d448e9679666b04e737bd7b0131fb51.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB908749/eb14f9f1708086a18e40c328060f69c4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB908749/f6c8e34f5c0ba69889f221069096a077.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB908749/1a87d1bf5b86477549ef3f4b381f38d7.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>360000</max_discount><priceWithDiscount>2230190</priceWithDiscount><sale_price>2230190</sale_price><url>https://belgee-orenburg.ru/cars/belgee-x50-15-amt-150-лс-style-серебристый-2025/</url></car>
+		<car>
 			<unique_id>d1a52ca45f4597c6b30e1707d456c993</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X50</folder_id>
@@ -230,7 +265,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2025</year>
 			<price>2590190</price>
 			<credit_discount>0</credit_discount>
