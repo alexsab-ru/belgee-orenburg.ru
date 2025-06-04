@@ -7,7 +7,8 @@ image: https://cdn.alexsab.ru/specials/belgee/kreditnye-predlozheniya-na-avtomob
 description: "Ознакомьтесь с кредитными предложениями и отправьте запрос официальному дилеру Белджи Партнер Оренбург."
 ---
 import Button from '@/components/Button/Button.astro';
-import { SITE_NAME, PHONE } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
@@ -998,7 +999,7 @@ export const advantages = [
 > <sup>*</sup> для всех моделей Belgee, приобретаемых у уполномоченных дилеров
 
 <br />
-Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
+Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>
 
 <div class="flex justify-center mt-10 mb-5">
 	<Button 
