@@ -1,14 +1,14 @@
 ---
-h1: Cпециальная выгода на автомобили 2024 и 2025 г. выпуска
-title: Cпециальная выгода на автомобили Белджи
-breadcrumb: Cпециальная выгода на автомобили Белджи
-pubDate: 2025-05-01
-image: https://cdn.alexsab.ru/specials/belgee/maximum-benefits/thumb_600x338.webp
-description: "Belgee Партнер Оренбург представляет выгоду при приобретении новых автомобилей с использованием кредитных средств, программ Трейд-ин и программы Белджи Финанс для покупки авто"
+h1: Максимальная выгода на автомобили Белджи
+title: Максимальная выгода на автомобили Белджи
+breadcrumb: Максимальная выгода на автомобили Белджи
+pubDate: 2025-07-01
+image: https://cdn.alexsab.ru/specials/belgee/maximum-benefits/thumb.webp
+description: "Воспользуйтесь специальным предложением при приобретении автомобиля Belgee с использованием кредитных средств, программ Трейд-ин и программы Белджи Финанс для покупки авто"
 ---
 import Button from '@/components/Button/Button.astro';
 import settings from '@/data/settings.json';
-export const { site_name, phone_common } = settings;
+export const { site_name, brand, phone_common, legal_city_where } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { FIRST_DAY, LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
@@ -16,130 +16,78 @@ export const from = `${FIRST_DAY}.${MONTH}.${YEAR}`;
 export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
 
 <picture>
-    <source media="(min-width: 942px)" srcset="https://cdn.alexsab.ru/specials/belgee/maximum-benefits/banner_1920x1080.webp" />
-    <source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/specials/belgee/maximum-benefits/banner_1080x720.webp" />
-    <img src="https://cdn.alexsab.ru/specials/belgee/maximum-benefits/banner_1920x1080.webp" class="w-full mb-10" alt="Выгода на автомобили Белджи" />
+    <source media="(max-width: 768px)" srcset="https://cdn.alexsab.ru/specials/belgee/maximum-benefits/banner-900x1200.webp" />
+    <img src="https://cdn.alexsab.ru/specials/belgee/maximum-benefits/banner-1920x1040.webp" class="w-full mb-10" alt="Выгода на автомобили Белджи" />
 </picture>
 
-**Специальная выгода**: 
+### **Специальная выгода:**
 
-При приобретении нового автомобиля Belgee вы можете получить специальную выгоду от розничной цены на сумму, указанную в таблице.
+При приобретении нового автомобиля Belgee вы можете получить специальную выгоду от розничной цены на сумму, указанную в таблице. 
 
-**Программа Трейд-ин с дополнительной выгодой от Belgee:**
+### **Программа Трейд-ин с дополнительной выгодой от Belgee:**
 
-Обменяйте свой автомобиль с пробегом на новый с помощью программы Трейд-ин с дополнительной выгодой от Belgee. В официальном дилерском центре <strong>{site_name}</strong> это можно сделать максимально быстро. Специалисты оценят ваш автомобиль по рыночной стоимости, и вам не придется искать покупателя. Также стоимость вашего автомобиля можно будет внести как первый взнос по кредиту на новый автомобиль Belgee. 
+Обменяйте свой автомобиль с пробегом на новый с помощью программы Трейд-ин с дополнительной выгодой от Belgee. В официальном дилерском центре <strong>{brand} {site_name}</strong> это можно сделать максимально быстро. Специалисты оценят ваш автомобиль по рыночной стоимости, и вам не придется искать покупателя. Также стоимость вашего автомобиля можно будет внести как первый взнос по кредиту на новый автомобиль Belgee. 
 
-**Программа Belgee Finance:**
+### **Программа Belgee Finance:**
 
 При приобретении автомобиля с использованием банковского кредита по условиям программы Belgee Finance вы можете получить выгоду от розничной цены на сумму, указанную в таблице
 
-<div class="overflow-auto min-w-full my-14">
-    <table class="w-[1100px] mx-auto border-collapse">
-        <tbody>
-        <tr>
-            <td class="border border-gray-300 bg-accent-500 text-white text-center align-middle p-2">
-                Модель нового автомобиля
-            </td>
-            <td class="border border-gray-300 bg-accent-500 text-white text-center align-middle p-2">
-                Комплектация нового автомобиля
-            </td>
-            <td class="border border-gray-300 bg-accent-500 text-white text-center align-middle p-2">
-                Специальная выгода<sup>1</sup>, руб.
-            </td>
-            <td class="border border-gray-300 bg-accent-500 text-white text-center align-middle p-2">
-                Выгода по программе Трейд-ин<sup>2</sup>, руб.
-            </td>
-            <td class="border border-gray-300 bg-accent-500 text-white text-center align-middle p-2">
-                Максимальная выгода до, руб.
-            </td>
-        </tr>
-        <tr>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                X50
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                Active
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                290 000
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                250 000
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                540 000*
-            </td>
-        </tr>
-        <tr>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                X50
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                Style и Prestige
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                290 000
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                200 000
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                490 000*
-            </td>
-        </tr>
-        <tr>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                X70
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                Active и Style 2WD
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                350 000
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                200 000
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                550 000*
-            </td>
-        </tr>
-        <tr>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                X70
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                Style 4WD
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                410 000
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                200 000
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                610 000*
-            </td>
-        </tr>
-        <tr>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                X70
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                Prestige и Prestige+ 4WD
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                400 000
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                200 000
-            </td>
-            <td class="border border-gray-300 text-center align-middle p-2">
-                600 000*
-            </td>
-        </tr>
+<div class="overflow-auto min-w-full my-14 -mx-5">
+    <table class="inline-block min-w-full w-auto px-5">
+        <thead>
+            <tr>
+                <th class="bg-accent-500 text-white">Модель нового автомобиля</th>
+                <th class="bg-accent-500 text-white">Комплектация нового автомобиля</th>
+                <th class="bg-accent-500 text-white">Специальная выгода¹, руб.</th>
+                <th class="bg-accent-500 text-white">Выгода по программе Трейд-ин², руб.</th>
+                <th class="bg-accent-500 text-white">Максимальная выгода до, руб.</th>
+            </tr>
+        </thead>
+        <tbody class="main-text ">
+            <tr>
+                <td>X50</td>
+                <td>Active</td>
+                <td>290 000</td>
+                <td>250 000</td>
+                <td>540 000<sup>*</sup></td>
+            </tr>
+            <tr>
+                <td>X50</td>
+                <td>Style и Prestige</td>
+                <td>290 000</td>
+                <td>140 000</td>
+                <td>430 000<sup>*</sup></td>
+            </tr>
+            <tr>
+                <td>X70</td>
+                <td>Active</td>
+                <td>350 000</td>
+                <td>200 000</td>
+                <td>550 000<sup>*</sup></td>
+            </tr>
+            <tr>
+                <td>X70</td>
+                <td>Style 2WD</td>
+                <td>350 000</td>
+                <td>170 000</td>
+                <td>520 000<sup>*</sup></td>
+            </tr>
+            <tr>
+                <td>X70</td>
+                <td>Style 4WD</td>
+                <td>410 000</td>
+                <td>170 000</td>
+                <td>580 000<sup>*</sup></td>
+            </tr>
+            <tr>
+                <td>X70</td>
+                <td>Prestige и Prestige+ 4WD</td>
+                <td>400 000</td>
+                <td>170 000</td>
+                <td>570 000<sup>*</sup></td>
+            </tr>
         </tbody>
-    </table>
+</table>
 </div>
 
 Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>
@@ -156,15 +104,14 @@ export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
 
 > Представленные на изображениях автомобили могут отличаться от серийных моделей. Цвет, технические характеристики и комплектация автомобилей Belgee X70 и X50 могут быть изменены в одностороннем порядке.
 
-> ООО «ДЖИЛИ-МОТОРС» вправе изменить сроки и условия Программ. Подробные условия уточняйте по тел. <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>.
+> ООО «ДЖИЛИ-МОТОРС» вправе изменить сроки и условия Программ. Подробные условия уточняйте  в дилерских центрах «Belgee», либо по тел. <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>.
 
 > Максимальная цена перепродажи носит информационный характер и не является публичной офертой. Программа действует с {from}г. по {to}г.
 
-> <sup>*</sup>Максимальная цена перепродажи с учетом применимых выгод состоит из выгоды, применяемой к цене автомобиля1 и выгоды по программе «Трейд-ин»2 на автомобили 2024г. производства. Настоящее предложение, включая любые сведения о предоставляемой выгоде, носит исключительно информационный характер, не является офертой, подробности уточняйте в дилерских центрах «Belgee». Предложение действительно с {from}г. по {to}г.
+> <sup>*</sup> Максимальная цена перепродажи с учетом применимых выгод состоит из выгоды, применяемой к цене автомобиля1 и выгоды по программе «Трейд-ин»2. Настоящее предложение, включая любые сведения о предоставляемой выгоде, носит исключительно информационный характер, не является офертой, подробности уточняйте  в дилерских центрах «Belgee». Предложение действительно с {from}г. по {to}г.
 
+> <sup>1</sup> Выгода, применяемая к цене автомобиля, предоставляется Дилером покупателю от розничной цены автомобиля. Программа действует с {from}г. по {to}г.
 
-> <sup>1</sup>Выгода, применяемая к цене автомобиля 2024г. производства, предоставляется Дилером покупателю от розничной цены автомобиля. Программа действует с {from}г. по {to}г.
+> <sup>2</sup> Выгода по программе «Трейд-ин» — это единовременная и разовая скидка, предоставляется Дилером покупателю от розничной цены автомобиля, приобретаемого по Программе, при сдаче в трейд-ин автомобиля с пробегом. Программа действует с {from}г. по {to}г.
 
-> <sup>2</sup>Выгода по программе «Трейд-ин» — это единовременная и разовая скидка, предоставляется Дилером покупателю от розничной цены автомобиля, приобретаемого по Программе, при сдаче в трейд-ин автомобиля с пробегом. Программа действует с {from}г. по {to}г.
-
-
+> Реклама. ООО «ДЖИЛИ-МОТОРС». Не оферта. ООО «ДЖИЛИ-МОТОРС» вправе изменить сроки и условия Программы. Подробные условия уточняйте  в дилерских центрах «Belgee», либо по тел. <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>.
