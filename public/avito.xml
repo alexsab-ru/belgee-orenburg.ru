@@ -131,7 +131,21 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB920702/960ddc68f1c9fab460cdb1c89375291d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB920702/20a7287836cc442d1bbfd4ff4adc0e23.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB920702/50f8a9333ec2be456f7907162a1af65e.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB920702/55d48a2be27c02955b5e125e193413a8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB920702/e017d4a2fad8fdc7fbd1992d4c8705e2.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB920702/814ccccc589be41a3ff0cf4c4cbd4c60.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB920702/052b05151dc31a17ed5aef8efcc36331.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB920702/fd45a97dd7631b96faa51cf667dd65a4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB920702/d5478facc725aedf939633c9c69993ad.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB920702/fba186f1a4e86a8b91db67b08bf472aa.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB920702/506b68b0a999efcdfc62f420c4d96233.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB920702/135dd7511020991a1b04ff61b61be849.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB920702/c13c7e89ddca27b4ffa91e1e68592cf2.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -405,7 +419,14 @@
 Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908150/bae8b40e4bd81d4aae6b47ebc04d0116.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908150/7b44d4e6d0ac75676243e74c77360246.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908150/9a648a7888a5b25bd93bbe4c658328fa.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908150/ed0c052c2ec6da6eb26e2c9ebb6b603a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908150/dc6257661810942461df3053dca0097a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB908150/a7d9235bb21de714b54fabe3585494de.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
