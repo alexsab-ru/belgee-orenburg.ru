@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>ac9662ab13eaf9ac9ec49b6861225132</unique_id>
+			<unique_id>406578f275df5ca5124aaa019107c4da</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -20,7 +20,7 @@
 			<tradein_discount>140000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z6SB914384</vin>
+			<vin>Y4K8622Z2SB911210</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X50, 2024 года, в комплектации Prestige
@@ -55,20 +55,20 @@
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/b0bd3f78323c907e570eeaba8e72fab4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/e53e1302e5435f19cda48143fea3d7f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/1000201d50561d24eea42ba825e369d1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/4b881d458d51d9c87ce6a29de3979813.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/d21b41e63d27d50281821095d86027a1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/b11cc90ce1bef57eb89a641b98326d6a.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/e65aaf643f31c15743fb558a2ef317b3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/12064daa663a019fd87a62a37c5ebe85.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/e53ef2ff2b090bff900e120b59bc89de.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/c9a87f840a3595ea143a430b667b9603.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/46288cb511a9d732aa4f608abdd67254.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/a748fc559a8f2db204c5e1320f30e836.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/a968d5f6112c2875ca0c72f8261c44a1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/fa188c59dfb3dab217b39aae2f5afe9e.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/ea1167367d4588079195bab50f0c8bd0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/87164c8de16469c052c6ab2825688dd0.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/403d1e969ef3b0a289c36f08057b2975.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/9555a8ace4e9a6b42fcbb4a1ae3da8c1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/3a13f6aae04620f886c74c9c05291e95.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/7380f1c8574bab078e7f4b513ab9e1c3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/e004bfc4988c6983b19da1f300a0fa05.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/b9ef7807fa22952b64112093294dfad4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/f768160f0b445ff1d8a65f8e072054d9.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/853755c404b34b53bc6e1f540d1dbaed.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/ec76f3ab21826802a62d67243c7dd99d.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/0c8a13698b47510f97d35b42acf46fa7.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/a55b1481fc668d113c86571f14b797e6.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/9da298ce86a26def8e43cb810aa81ebc.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -149,7 +149,7 @@
 			</multiposting>
 		<max_discount>430000</max_discount><priceWithDiscount>2260190</priceWithDiscount><sale_price>2260190</sale_price><url>https://belgee-orenburg.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2025/</url></car>
 		<car>
-			<unique_id>406578f275df5ca5124aaa019107c4da</unique_id>
+			<unique_id>ac9662ab13eaf9ac9ec49b6861225132</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -168,7 +168,7 @@
 			<tradein_discount>140000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z2SB911210</vin>
+			<vin>Y4K8622Z6SB914384</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X50, 2024 года, в комплектации Prestige
@@ -203,20 +203,20 @@
 
 Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/ea1167367d4588079195bab50f0c8bd0.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/87164c8de16469c052c6ab2825688dd0.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/403d1e969ef3b0a289c36f08057b2975.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/9555a8ace4e9a6b42fcbb4a1ae3da8c1.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/3a13f6aae04620f886c74c9c05291e95.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/7380f1c8574bab078e7f4b513ab9e1c3.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/e004bfc4988c6983b19da1f300a0fa05.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/b9ef7807fa22952b64112093294dfad4.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/f768160f0b445ff1d8a65f8e072054d9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/853755c404b34b53bc6e1f540d1dbaed.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/ec76f3ab21826802a62d67243c7dd99d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/0c8a13698b47510f97d35b42acf46fa7.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/a55b1481fc668d113c86571f14b797e6.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z2SB911210/9da298ce86a26def8e43cb810aa81ebc.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/b0bd3f78323c907e570eeaba8e72fab4.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/e53e1302e5435f19cda48143fea3d7f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/1000201d50561d24eea42ba825e369d1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/4b881d458d51d9c87ce6a29de3979813.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/d21b41e63d27d50281821095d86027a1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/b11cc90ce1bef57eb89a641b98326d6a.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/e65aaf643f31c15743fb558a2ef317b3.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/12064daa663a019fd87a62a37c5ebe85.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/e53ef2ff2b090bff900e120b59bc89de.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/c9a87f840a3595ea143a430b667b9603.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/46288cb511a9d732aa4f608abdd67254.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/a748fc559a8f2db204c5e1320f30e836.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/a968d5f6112c2875ca0c72f8261c44a1.jpeg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6SB914384/fa188c59dfb3dab217b39aae2f5afe9e.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -631,7 +631,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>10</run>
 			<year>2025</year>
 			<price>2946190</price>
 			<credit_discount>0</credit_discount>
