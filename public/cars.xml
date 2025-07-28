@@ -17,7 +17,7 @@
 			<price>2690190</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
+			<tradein_discount>140000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<vin>Y4K8622Z2SB911210</vin>
@@ -73,7 +73,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>0</max_discount><priceWithDiscount>2690190</priceWithDiscount><sale_price>2690190</sale_price><url>https://belgee-orenburg.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2025/</url></car>
+		<max_discount>140000</max_discount><priceWithDiscount>2550190</priceWithDiscount><sale_price>2550190</sale_price><url>https://belgee-orenburg.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-2025/</url></car>
 		<car>
 			<unique_id>543d05ffcffcbdd1c1abc9668c764893</unique_id>
 			<mark_id>BelGee</mark_id>
