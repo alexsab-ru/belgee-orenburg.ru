@@ -348,7 +348,7 @@
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>6</run>
 			<year>2025</year>
 			<price>2590190</price>
 			<credit_discount>0</credit_discount>
@@ -1163,78 +1163,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x70-15-at-150-лс-style-белый-2025/</url></car>
-		<car>
-			<unique_id>ce000bf368a7ac8bcf577ede460673b4</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2025</year>
-			<price>2946190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>170000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>606990</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722Z3SB314242</vin>
-			<description>ПАРТНЕР -  официальный дилер BelGee в городе Оренбурге.
-
-В наличии новый Belgee X70, 2024 года, в комплектации Style.
-
-До 31.07.2025 действуют следующие предложения:
-
-✅ 5 ЛЕТ БЕЗ СЕРВИСНЫХ ЗАБОТ*
-
-✅ ДОПОЛНИТЕЛЬНОЕ ОБОРУДОВАНИЕ*
-
-✅ ШИННЫЙ ОТЕЛЬ*
-
-✅ PACCPОЧКA от 0,01%
-
-✅ ОЦЕНКА ПО TRADE-IN ВЫШЕ РЫНКА
-
-✅ ЛИЗИНГ БЕЗ ПЕРВОНАЧАЛЬНОГО ВЗНОСА
-
-✅ ГAРАHTИЯ 5 ЛEТ
-
-* Подробности в отделе продаж.
-
-Если новый Belgee, то в Belgee Партнер Оренбург на Загородном шоссе 13/1.
-
-Цена указана с учётом максимальной выгоды.
-
-Так же доступны автомобили в других комплектациях и цветах.
-
-В нашем автосалоне вы всегда сможете пройти тест-драйв на интересующем вас автомобиле и рассчитать кредит на самых выгодных условиях.
-
-Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля.
-
-Мы гарантируем полную прозрачность сделки и юридическую чистоту автомобиля.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722Z3SB314242/a3e4a51bc8bfe4a6320753329503c77d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z3SB314242/d0e5d60d10e0db06f6fe5e67c36e9385.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z3SB314242/d0631c7396357a514bdae061ee4ae096.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z3SB314242/2413d92a926ed0401948c8ab9ffbb365.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z3SB314242/6d0d397e7cd1ffbf0361e7e68eba193c.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z3SB314242/71bda1aac32e16f92bceebf79f0bf849.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z3SB314242/b3d07e68d9291d25ee9dc9bd72c11260.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z3SB314242/96e7d0570b6651b1e886db0c7e0ac133.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z3SB314242/b6e73c8aec84162f7402f74d32361c60.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z3SB314242/fe9128124233022928ad6deea6597f1e.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722Z3SB314242/02f7b45a4fb489aa4857dd5891b4747a.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-x70-15-at-150-лс-style-серый-2025/</url></car>
 		<car>
 			<unique_id>e33339826e4f479c5c34d1ee6e78f6e5</unique_id>
 			<mark_id>BelGee</mark_id>
