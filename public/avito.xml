@@ -1,48 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>c4ac297648b814cbbbc4998ec2f1c87a</unique_id>
-			<mark_id>BelGee</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2025</year>
-			<price>2690190</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>430000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6SB922582</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB922582/5b084176732395a2599bf0487e1adb37.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB922582/28c9dafc58cccff0ce4782983ac929f5.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB922582/859acc108a763428835de24a8425461d.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB922582/95bad8d18ae6bf3b975638179c5da455.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB922582/7ce74c642183908047f3a35ba3571833.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB922582/776056b9cbc91cb9354264d9bb48ea90.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB922582/1df6eb27baea14b1c4944e77e148f8cd.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB922582/d06a7fccedb65a7aa7e2c7159b6cc921.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB922582/9fcc99d861360d5efb746c445e0cea17.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB922582/9928e39455a2f20954b64ed7d09e1c31.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB922582/3103f3a14681f160a507185b21017ed9.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB922582/38b94e4bed26278db7fb517777f730bf.jpeg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6SB922582/a1c6828f89e3c47b404fa103226cfbd7.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<url>https://belgee-orenburg.ru/cars/belgee-x50-15-amt-150-лс-prestige-черный-2025/</url></car>
-		<car>
 			<unique_id>5c52193d2037ff0058ddf41f8759a83d</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X50</folder_id>
