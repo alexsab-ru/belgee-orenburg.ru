@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <cars><car>
-			<unique_id>d28c583532fd2e9fe30abde5b54d6128</unique_id>
+			<unique_id>fd4c5d013ba2b0c923fbd0bb845a7f6d</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -21,7 +21,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>695000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z1SB930153</vin>
+			<vin>Y4K8622Z6SB930164</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X50, 2024 года, в комплектации Active.
@@ -62,7 +62,7 @@
 			</multiposting>
 		<url>https://belgee-orenburg.ru/cars/belgee-x50-15-amt-150-лс-active-белый-2025/</url></car>
 		<car>
-			<unique_id>fd4c5d013ba2b0c923fbd0bb845a7f6d</unique_id>
+			<unique_id>d28c583532fd2e9fe30abde5b54d6128</unique_id>
 			<mark_id>BelGee</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -82,7 +82,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>695000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z6SB930164</vin>
+			<vin>Y4K8622Z1SB930153</vin>
 			<description>ПАРТНЕР АВТО - официальный дилер BelGee в городе Оренбурге.
 
 В наличии новый Belgee X50, 2024 года, в комплектации Active.
